@@ -5,7 +5,6 @@ publish: true
 
 This setting was originally developed with Savage Worlds, a different game system, in mind. I have done my best to convert the concepts over to be more flexible with any system, but feel free to discuss with me any questions or ideas you have and we can work on integrating or adapting whatever is needed to make things fit. I do not have plans to limit your choice of mechanics based purely on the setting.
 
-Also, as a note: I used AI to help me reorganize all my files. I did not pay attention and have found it also rewrote a ton of stuff. Everything on this document has been hand rewritten... I think. But if you see a pesky em dash let me know.
 
 ## Our Story Starts
 
@@ -20,6 +19,7 @@ There are four major continents: Azuria, Meklen, Veridia, and Eleas. The Norsk E
 
 #### History
 TBD
+
 #### Nations
 ##### Norsk Empire 
 A technologically advanced nation who commits much of their resources to digging up and reverse engineering lost artifacts from the past. Much of their technology is owned and controlled by the government and is hard to reproduce, but they are improving. Norsk controls all airships in the world but allows them to be used by any nation as a show of good will.
@@ -29,6 +29,7 @@ While being a member of The Order requires you to be a Dragonkin, they do allow 
 The Jidar Unity is a coalition of three city states in Veridia. They banded together to form the coalition during the Norsk Empire's expansion efforts in the past. While the two nations get are no longer engaged in battles, political tension is sometimes strained, as Veridia has many ruins that Norsk would like to explore. Jidar considers Norsk's continued collection of technology and weapons to be a threat.
 ##### Others
 While there are only three major nations controlling much of the world, these are not the only bodies of influence. Serran enclaves exist, hidden from most of the world, as well as the tribal and nomadic people of Eleas. 
+
 
 
 #### Magic & Spellcasting
