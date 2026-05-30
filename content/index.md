@@ -18,7 +18,13 @@ Asteria is an earth-like world though its size is not much different from Luna(T
 There are four major continents: Azuria, Meklen, Veridia, and Eleas. The Norsk Empire largely rules over Azuria, while the Jidar Unity resides mostly on Veridia, and then the Order on Meklen. No nation has laid claim to all of Eleas, though some tribal and nomadic peoples might say otherwise. 
 
 #### History
-TBD
+Super quickly made timeline. I say -ish on all of these because the exact time of the campaign is a little unknown until I get more context from the players.
+
+- 750ish Years Ago: The Calamity. What exactly happened, and the cause is unknown, but many people perished. Everyone alive struggles to recall what happened, and there is little known record. Any records found in ruins are unreadable. Also referred to as the Aetherfire by some, especially halflings.
+- 200ish years ago. Spirits made their presence known on Asteria, effectively unlocking magic for everyone except Serrans, who could already use it.
+- 100ish years ago. The Long Night. An event where a Serran named Vohkah lost control of their magic and killed approximately 1 million people. Total population of the planet is only about 6 million. So... yeah.
+- 80ish years ago. Norsk-Jidar War begins, lasting about a year. several city states band together to form the Jidar Unity.
+
 
 #### Nations
 ##### Norsk Empire 
@@ -50,41 +56,52 @@ That said, here are some brief examples of how some supernatural and extraordina
 
 ## Things You Know
 
-TBD
+#### Shadowforged
+Creatures or entities that have been touched and corrupted by mana, which is an unstable form of Aether, the invisible energy that permeates the universe. They seem to know only murder, and actively seek destruction of life. Communication doesn't appear possible.
+
+Shadowforged can be formed from anything. Since Aether permeates all things, even inanimate objects can become shadowforged. It is rare for people to become shadowforged, but it has happened in the past. 
+
+#### The World Tree
+On an island of the continent of Meklen resides a gigantic tree, often called The World Tree, or by many Dragonkin of the Order, Genesis. Its branches reach far into the heavens, higher than any airship is capable of traveling. Dragonkin revere this tree by their nature, and would throw everything away in defense of it.
+
+#### World Dragons
+There are three dragons known to the world: Vulcanus of the Sky, Charybdis of the Sea, and Shai-Hulud of the Land.
+
+These dragons have existed for longer than anyone can remember, and are treated as natural disasters. Their sheer size makes them extremely difficult to fight, though Norsk has tried. Several times.
 
 ## Character Creation
 
-#### Character Level & Experience
+### Character Level & Experience
 Characters will start at level two. We will use Milestone leveling, where I dictate exactly when you level up. In general this will be between adventures, tasks, missions, and the like. The party will always level up together. I will not separate levels.
 
-#### Starting Equipment
+### Starting Equipment
 You may start with equipment a typical adventurer of your caliber would have. Armor and a weapon/shield, as well as any mundane items that make sense with your character. Adventuring gear such as rope, rations, a simple tent, and the like. The total value of these items shouldn't be more than a few gold. If they are, discuss with me.
 
 Additionally, you have 20 gold in your pockets, as well as one level 1 magic item.
 
-#### Free Archetype
+### Free Archetype
 We are playing using the Free Archetype variant rule. This means at every even level starting at two, you may choose an additional Archetype Feat. You must meet the requirements for these feats as normal. 
 
-#### Ancestries
+### Ancestries
 There are only four ancestries present on Asteria at this time, and your character belongs to one of them. However, you are free to pick ancestries from Pathfinder and reflavor them to your hearts desire to align with these.
-##### Human
+#### Human
 Humans are oldest mortal race on Asteria, having witnessed more of the world's
 history than any other ancestry. Humans are highly versatile and come in nearly
 every flavor of personality and culture. They are widely accepted and
 can be found almost anywhere, with most cities being predominantly human. 
-##### Halfling
+#### Halfling
 Halfling is the term used humanoids with animalistic traits such as animal ears, tails, horns, claws, enhanced senses, or sometimes more prominent features like scales or stronger limbs. The animal expressions vary widely between individuals and can align with nearly any conceivable animal within reason. Discuss with your GM if you have a particularly fun idea.
 
 Like humans, halflings make up another significant amount of the population of Asteria. They can be found anywhere, having no real separate culture of their own, and are effortlessly integrated into societies everywhere.
 
 For unknown reasons, halflings are genetically predisposed to have a fear of fire. 
-##### Serran
+#### Serran
 Serrans closely resemble humans with a few minor physical differences. They tend to be shorter and more slender. They are born with tattoo-like markings that grow as they age, beginning around the neck before spreading across the shoulders, arms, back, and eventually down their thighs. The markings are unique to each Serran, and they often glow when magic or energy flows through them such as when channeling or receiving magic such as a fireball or a healing spell. The tattoos don't discriminate.
 
 Serrans are magical in nature, and a serran without access to magic is *exceedingly* rare. However, they are known for their proficiency over magic, and utilize it in all manner of ways, including more subtle ones such as augmenting their physical abilities to mimic more martial focused heroes. Some serrans can also see into the future.
 
 Culturally, serran live in enclaves hidden throughout the world and rarely leave. It is common to go one's whole life without ever meeting a serran. The reason for this is due to extreme fear of their supposed overwhelming magical power and how it was used many years ago to kill hundreds of thousands.
-##### Dragonkin
+#### Dragonkin
 The largest of Asteria's recognized ancestries, Dragonkin average around eight feet tall. They are humanoid in shape but have large scaled wings protruding from the lower back, scales covering much of their body, and distinctive features such as slitted eyes, fangs, and tails. 
 
 While they have wings, the distribution and weight of their body does not allow for flight without some kind of assistance. Some Dragonkin are known to channel magic through their wings to facilitate flight. Because of these bulky wings, they tend to be weak swimmers.
@@ -98,11 +115,11 @@ Dragonkin are fiercely loyal to the World Tree, and find it very difficult to no
 TBD
 ## House Rules
 
-#### Hero Points
+### Hero Points
 When you spend a Hero Point to reroll a check, you cannot roll below 10.
 
-#### Free Rebuild 
+### Free Rebuild 
 Once per character, you may fully rebuild and retcon any and all mechanics for your character if you feel like your build is not working out how you desire.
 
-#### Retiring Characters
+### Retiring Characters
 You are always free to retire a character at any time if you ever feel the need to switch things up. There is no penalty to this. Your new character will be the same level as before and have an amount of gold equal to the value of all your items.
